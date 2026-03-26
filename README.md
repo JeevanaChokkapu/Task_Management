@@ -6,10 +6,9 @@ Full-stack task tracker with authentication, CRUD task management, filtering, se
 ## Backend
 Path: `backend`
 
-1. Copy `.env.example` to `.env` and set values.
-2. Install: `npm install`
-3. Run: `npm run dev` (or `npm start`)
-4. API base: `http://localhost:5000/api`
+1. Install: `npm install`
+2. Run: `npm run dev` (or `npm start`)
+3. API base: `http://localhost:5000/api`
 
 Endpoints:
 - `POST /api/auth/signup` { name, email, password }
